@@ -3,4 +3,5 @@ listPolicy:
   allowedValues:
   - '7776000'
   inheritFromParent: true
-  suggestedValue: '7776000
+  suggestedValue: '7776000'
+  
