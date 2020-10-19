@@ -1,0 +1,6 @@
+constraint: constraints/storage.retentionPolicySeconds 
+listPolicy:
+  allowedValues:
+  - '7776000'
+  inheritFromParent: true
+  suggestedValue: '7776000
